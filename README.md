@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Mechanical+Engineering+Student;Welcome+to+my+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Mechanical+Engineer;AI+%26+ML+Researcher;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://YOUR_WEBSITE.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
 </div>
@@ -21,13 +21,14 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  Use this section to give a short bio. Keep it punchy!
+  Junior Mechanical Engineering Student at UT Tyler with a focus on Machine Learning and Computational Materials Science.
   <br/>
-  🔭 I’m currently working on **[Project Name]**
   <br/>
-  🌱 I’m currently learning **[New Skill]**
+  🔭 I’m currently working on a **NICU Haptic & Scent Device**
   <br/>
-  ⚡ Fun fact: **[Insert Fun Fact]**
+  🌱 I’m currently exploring **High-Performance Computing (TACC Frontera)**
+  <br/>
+  ⚡ Fun fact: **I play soccer & run a Bambu Lab P1S**
 </div>
 
 ---
@@ -35,14 +36,19 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/SolidWorks-D22128?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-4285F4?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  
+  <br/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
@@ -60,7 +66,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/MohammedBarakat7/MohammedBarakat7/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedBarakat7/MohammedBarakat7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedBarakat7/MohammedBarakat7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohammedBarakat7/MohammedBarakat7/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
