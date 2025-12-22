@@ -1,13 +1,13 @@
-<div align="center">
+or<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Mechanical+Engineer;AI+%26+ML+Researcher;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://www.linkedin.com/in/mohammedbarakat05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohammeddbarakat7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://YOUR_WEBSITE.com">
@@ -21,14 +21,14 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  Junior Mechanical Engineering Student at UT Tyler with a focus on Machine Learning and Computational Materials Science.
+  Senior Mechanical Engineering Student at UT Tyler with a focus on applying AI to Mechanical Engineering concepts.
   <br/>
   <br/>
-  🔭 I’m currently working on a **NICU Haptic & Scent Device**
+  🔭 I’m currently working on a <b>NICU Haptic & Scent Device</b>
   <br/>
-  🌱 I’m currently exploring **High-Performance Computing (TACC Frontera)**
+  🌱 I’m currently exploring <b>AI applications for optimizing engineering design</b>
   <br/>
-  ⚡ Fun fact: **I play soccer & run a Bambu Lab P1S**
+  ⚡ Fun fact: <b>I enjoy playing soccer & finding out ways to improve myself</b>
 </div>
 
 ---
