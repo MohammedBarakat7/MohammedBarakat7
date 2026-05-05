@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Mechanical+Engineer;AI+%26+ML+Researcher;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
+
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/mohammedbarakat05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -39,16 +39,17 @@
   <img src="https://img.shields.io/badge/SolidWorks-D22128?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-4285F4?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  
+
   <br/>
-  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -57,11 +58,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedBarakat7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedBarakat7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=MohammedBarakat7&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak stats" />
 </div>
+
 <br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedBarakat7&theme=tokyonight" alt="profile summary" />
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedBarakat7/MohammedBarakat7/output/github-contribution-grid-snake-dark.svg">
