@@ -19,10 +19,10 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  Mechanical Engineering Graduate from UT Tyler with a focus on applying AI to Mechanical Engineering concepts.
+  Mechanical Engineering PhD Student at Carnegie Mellon University with a focus on applying AI to Mechanical Engineering concepts.
   <br/>
   <br/>
-  🎓 Recently graduated with a <b>B.S. in Mechanical Engineering</b>
+  🎓 Recently graduated with a <b>B.S. in Mechanical Engineering</b> from UT Tyler
   <br/>
   🔭 I'm currently working on <b>AI-driven engineering research</b>
   <br/>
