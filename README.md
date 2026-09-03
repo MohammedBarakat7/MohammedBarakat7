@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  Mechanical Engineering PhD Student at Carnegie Mellon University with a focus on bridging the gap between the newwest innovations in AI and the physics-based Mechanical Engineering concepts.
+  Mechanical Engineering PhD Student at Carnegie Mellon University with a focus on bridging the gap between the newest innovations in AI and physics-based Mechanical Engineering concepts.
   <br/>
   <br/>
   🎓 <b>B.S. in Mechanical Engineering</b> from UT Tyler
@@ -30,6 +30,8 @@
   🔭 I'm currently working on <b>Agentic AI and LLM-driven engineering research</b>
   <br/>
   🌱 I'm currently exploring <b>AI applications for optimizing engineering design</b>
+  <br/>
+  💻 Experience with <b>molecular dynamics simulations and high-performance computing</b>
   <br/>
   ⚡ Fun fact: <b>I enjoy playing soccer & finding ways to improve myself</b>
 </div>
@@ -41,8 +43,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SolidWorks-D22128?style=for-the-badge&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-4285F4?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
+  <img src="https://img.shields.io/badge/LAMMPS-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/High_Performance_Computing-555555?style=for-the-badge" />
 
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
