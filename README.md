@@ -19,12 +19,12 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-  Mechanical Engineering PhD Student at Carnegie Mellon University with a focus on applying AI to Mechanical Engineering concepts.
+  Mechanical Engineering PhD Student at Carnegie Mellon University with a focus on bridging the gap between the newwest innovations in AI and the physics-based Mechanical Engineering concepts.
   <br/>
   <br/>
-  🎓 Recently graduated with a <b>B.S. in Mechanical Engineering</b> from UT Tyler
+  🎓 <b>B.S. in Mechanical Engineering</b> from UT Tyler
   <br/>
-  🔭 I'm currently working on <b>AI-driven engineering research</b>
+  🔭 I'm currently working on <b>Agentic AI and LLM-driven engineering research</b>
   <br/>
   🌱 I'm currently exploring <b>AI applications for optimizing engineering design</b>
   <br/>
