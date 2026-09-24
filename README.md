@@ -27,13 +27,9 @@
   <br/>
   🎓 <b>B.S. in Mechanical Engineering</b> from UT Tyler
   <br/>
-  🔭 I'm currently working on <b>Agentic AI and LLM-driven engineering research</b>
-  <br/>
-  🌱 I'm currently exploring <b>AI applications for optimizing engineering design</b>
-  <br/>
   💻 Experience with <b>molecular dynamics simulations and high-performance computing</b>
   <br/>
-  ⚡ Fun fact: <b>I enjoy playing soccer & finding ways to improve myself</b>
+  ⚡ Fun fact: <b>I enjoy playing soccer</b>
 </div>
 
 ---
